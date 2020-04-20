@@ -4,8 +4,9 @@ This README.md lists the project scenario, goals, methodology, and a summary of 
 ### Project File Summary
 - <b>README.md</b> - a summary of all contents in this repository.
 - <b>/Data</b> - The csv files downloaded for the cityofchicago data portal as well as the cleaned csv files used for modelling
-- <b>/DataCleaning</b> - Jupyter Notebook containing all the data cleaning steps
+- <b>/DataCleaning</b> - Jupyter Notebook containing all code used for the data cleaning steps
 - <b>/EDA</b> - Jupyter Notebook containg all exploratory data anlysis and visualizations
+- <b>/FeatEng</b> - Jupyter Notebook containing all code used for feature engineering
 - <b>/Modeling</b> - Jupyter Notebook containing all code used for the logistic regression
 - <b>/Presentation</b> - A pdf of the powerpoint presentation
 
